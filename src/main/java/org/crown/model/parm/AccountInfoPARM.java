@@ -58,5 +58,4 @@ public class AccountInfoPARM extends Convert {
     public interface Update {
 
     }
-
 }
